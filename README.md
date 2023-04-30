@@ -65,6 +65,8 @@ plt.show()
 ```
 ![image](https://user-images.githubusercontent.com/123593094/235365735-120be805-c14d-4c46-a556-c5ec63f44fe5.png)
 
+As shown above by the matrix, the inputs in the data set seem to have virtually no correlation. The highest corrleation to heart disease in the data set is thallium and number of vessels fluro 
+
 
 ## Model Creation `Predicating_heart_disease.ipynb`
 The creation of this model required us to use the Sklearn Lab Logistic Regression library to make the regression model. The process of creating the model is outlined in the python notebook in section 2. Below is a code block for all of the code we used to create the model.
